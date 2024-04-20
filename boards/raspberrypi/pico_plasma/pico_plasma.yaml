@@ -1,5 +1,5 @@
-identifier: rpi_pico/rp2040/w
-name: RaspberryPi-Pico-w
+identifier: pico_plasma
+name: RP2040_Plasma
 type: mcu
 arch: arm
 flash: 2048
@@ -19,6 +19,5 @@ supported:
   - pwm
   - flash
   - dma
-  - pio
   - counter
   - clock
